@@ -1,0 +1,17 @@
+public class MyClass
+{
+	public static void main(String[] args)
+	{
+		byte b = 5;
+		short s = 2;
+		int i = 25;
+		long l = 5000;
+		double d = 22.22;
+		float f = 10.25;
+		char c
+		System.out.println("*\n");
+		System.out.println("*\t*\t*\t\n");
+		System.out.println("*\t*\t*\t*\n");
+		System.out.println("*\t*\t*\t*\t*\n");
+	}
+}
